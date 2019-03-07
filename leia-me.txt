@@ -1,0 +1,2 @@
+Este projeto mostra algumas formas de criar apresentações de slides utilizando FragmentSlide e 
+SimpleSlide
